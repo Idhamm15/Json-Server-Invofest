@@ -1,0 +1,48 @@
+{
+  "competition": [
+    {
+      "id": 1,
+      "nama_competition": "Karya Tulis Ilmiah",
+      "deskripsi": "Lomba Karya Tulis Ilmiah untuk tingkat Mahasiswa"
+    },
+    {
+      "id": 2,
+      "nama_competition": "UI/UX",
+      "deskripsi": "Desain UI/UX Aplikasi untuk tingkat Mahasiswa"
+    },
+    {
+      "id": 3,
+      "nama_competition": "Web Desain",
+      "deskripsi": "Lomba Web Desain untuk tingkat SMA/SMK Sederajat"
+    },
+    {
+      "id": 4,
+      "nama_competition": "Software Development",
+      "deskripsi": "Lomba Pengembangan Aplikasi untuk tingkat mahasiswa"
+    },
+    {
+      "id": 5,
+      "nama_competition": "Video Creative",
+      "deskripsi": "Lomba Video Creative hanya untuk Internal Mahasiswa Politeknik Harapan Bersama"
+    }
+  ],
+  "competition_team": [
+    {
+      "id": 1,
+      "nama_team": "team A",
+      "nama_competition": "Karya Tulis Ilmiah"
+    },
+    {
+      "id": 2,
+      "nama_team": "team B",
+      "nama_competition": "Web Desain"
+    },
+    {
+      "id": 3,
+      "nama_team": "team C",
+      "nama_competition": "UI/UX"
+    }
+  ]
+}
+
+
